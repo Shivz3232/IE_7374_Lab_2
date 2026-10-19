@@ -1,5 +1,5 @@
+default/*
 !default/starter.ipynb
-default/
 .idea
 mlflow.db
 mlruns/
